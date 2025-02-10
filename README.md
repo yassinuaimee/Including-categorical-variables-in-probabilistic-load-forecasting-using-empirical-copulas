@@ -1,1 +1,1 @@
-# copula-short-course
+# Including categorical variables in probabilistic load forecasting using empirical copulas
